@@ -20,7 +20,6 @@ Meetecho - [full client](https://meetings.conf.meetecho.com/ietf121/?session=334
 
 _See also the [extensions listing](https://httpwg.org/http-extensions/)_
 
-* 20 min - [No-Vary-Search](https://datatracker.ietf.org/doc/draft-ietf-httpbis-no-vary-search/)
 * 20 min - [Resumable Uploads](https://datatracker.ietf.org/doc/draft-ietf-httpbis-resumable-upload)
 * 10 min - [QUERY Method](https://datatracker.ietf.org/doc/draft-ietf-httpbis-safe-method-w-body) -- Mike Bishop
 * 10 min - [Cache Groups](https://datatracker.ietf.org/doc/draft-ietf-httpbis-cache-groups/) -- Mark Nottingham
@@ -47,7 +46,8 @@ Meetecho - [full client](https://meetings.conf.meetecho.com/ietf121/?session=334
 _See also the [extensions listing](https://httpwg.org/http-extensions/)_
 
 * 10 min - [Template-Driven CONNECT for TCP](https://datatracker.ietf.org/doc/draft-ietf-httpbis-connect-tcp/) -- Ben Schwartz (remote)
-* 15 min - [Security Considerations for Optimistic Use of HTTP Upgrade](https://datatracker.ietf.org/doc/draft-ietf-httpbis-optimistic-upgrade/) -- Ben Schwartz (remote)
+* 10 min - [Security Considerations for Optimistic Use of HTTP Upgrade](https://datatracker.ietf.org/doc/draft-ietf-httpbis-optimistic-upgrade/) -- Ben Schwartz (remote)
+* 15 min - [No-Vary-Search](https://datatracker.ietf.org/doc/draft-ietf-httpbis-no-vary-search/)
 
 ### Other Topics
 
