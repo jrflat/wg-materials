@@ -20,7 +20,7 @@ Meetecho - [full client](https://meetings.conf.meetecho.com/ietf121/?session=334
 
 _See also the [extensions listing](https://httpwg.org/http-extensions/)_
 
-* 20 min - [Resumable Uploads](https://datatracker.ietf.org/doc/draft-ietf-httpbis-resumable-upload)
+* 20 min - [Resumable Uploads](https://datatracker.ietf.org/doc/draft-ietf-httpbis-resumable-upload) -- Marius Kleidl ([slides](resumable_uploads.pdf))
 * 10 min - [QUERY Method](https://datatracker.ietf.org/doc/draft-ietf-httpbis-safe-method-w-body) -- Mike Bishop
 * 10 min - [Cache Groups](https://datatracker.ietf.org/doc/draft-ietf-httpbis-cache-groups/) -- Mark Nottingham
 
