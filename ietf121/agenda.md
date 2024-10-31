@@ -46,8 +46,8 @@ Meetecho - [full client](https://meetings.conf.meetecho.com/ietf121/?session=334
 
 _See also the [extensions listing](https://httpwg.org/http-extensions/)_
 
-* 10 min - [Template-Driven CONNECT for TCP](https://datatracker.ietf.org/doc/draft-ietf-httpbis-connect-tcp/) -- Ben Schwartz (remote)
-* 10 min - [Security Considerations for Optimistic Use of HTTP Upgrade](https://datatracker.ietf.org/doc/draft-ietf-httpbis-optimistic-upgrade/) -- Ben Schwartz (remote)
+* 10 min - [Template-Driven CONNECT for TCP](https://datatracker.ietf.org/doc/draft-ietf-httpbis-connect-tcp/) -- Ben Schwartz _remote_ ([slides](template-driven-connect.pdf))
+* 10 min - [Security Considerations for Optimistic Use of HTTP Upgrade](https://datatracker.ietf.org/doc/draft-ietf-httpbis-optimistic-upgrade/) -- Ben Schwartz _remote_ ([slides](optimistic.pdf))
 * 15 min - [No-Vary-Search](https://datatracker.ietf.org/doc/draft-ietf-httpbis-no-vary-search/)
 
 ### Other Topics
