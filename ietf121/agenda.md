@@ -29,6 +29,7 @@ _See also the [extensions listing](https://httpwg.org/http-extensions/)_
 * 15 min - [Incremental HTTP Messages](https://datatracker.ietf.org/doc/draft-kazuho-httpbis-incremental-http/) -- Kazuho Oku
 * 15 min - [The HTTP Wrap Up Capsule](https://datatracker.ietf.org/doc/draft-schinazi-httpbis-wrap-up/) -- Lucas Pardue
 * 10 min - [Guidance for HTTP Capsule Protocol Extensibility](https://datatracker.ietf.org/doc/draft-pardue-capsule-ext-guidance/) -- Lucas Pardue
+* 10 min - Cookie eviction -- Yoav Weiss
 
 ## Thursday, 7 November 2024
 
