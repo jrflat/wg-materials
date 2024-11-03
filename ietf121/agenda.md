@@ -21,14 +21,14 @@ Meetecho - [full client](https://meetings.conf.meetecho.com/ietf121/?session=334
 _See also the [extensions listing](https://httpwg.org/http-extensions/)_
 
 * 20 min - [Resumable Uploads](https://datatracker.ietf.org/doc/draft-ietf-httpbis-resumable-upload) -- Marius Kleidl ([slides](resumable_uploads.pdf))
-* 10 min - [QUERY Method](https://datatracker.ietf.org/doc/draft-ietf-httpbis-safe-method-w-body) -- Mike Bishop
+* 10 min - [QUERY Method](https://datatracker.ietf.org/doc/draft-ietf-httpbis-safe-method-w-body) -- Mike Bishop ([slides](query.pdf))
 * 10 min - [Cache Groups](https://datatracker.ietf.org/doc/draft-ietf-httpbis-cache-groups/) -- Mark Nottingham
 
 ### Other Topics
 
-* 15 min - [Incremental HTTP Messages](https://datatracker.ietf.org/doc/draft-kazuho-httpbis-incremental-http/) -- Kazuho Oku
-* 15 min - [The HTTP Wrap Up Capsule](https://datatracker.ietf.org/doc/draft-schinazi-httpbis-wrap-up/) -- Lucas Pardue
-* 10 min - [Guidance for HTTP Capsule Protocol Extensibility](https://datatracker.ietf.org/doc/draft-pardue-capsule-ext-guidance/) -- Lucas Pardue
+* 15 min - [Incremental HTTP Messages](https://datatracker.ietf.org/doc/draft-kazuho-httpbis-incremental-http/) -- Kazuho Oku ([slides](incremental.pdf))
+* 15 min - [The HTTP Wrap Up Capsule](https://datatracker.ietf.org/doc/draft-schinazi-httpbis-wrap-up/) -- Lucas Pardue ([slides](wrap-up-capsule.pdf))
+* 10 min - [Guidance for HTTP Capsule Protocol Extensibility](https://datatracker.ietf.org/doc/draft-pardue-capsule-ext-guidance/) -- Lucas Pardue ([slides](capsule-extensibility.pdf))
 * 10 min - Cookie eviction -- Yoav Weiss _remote_ ([slides](delete-cookie.pdf))
 
 ## Thursday, 7 November 2024
