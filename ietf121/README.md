@@ -6,6 +6,7 @@
 
 - [Agenda](agenda.md) 
 - [Capsule Extensibility](capsule-extensibility.pdf) _pdf_
+- [Chairs](chairs.pdf) _pdf_
 - [Delete Cookie](delete-cookie.pdf) _pdf_
 - [Incremental](incremental.pdf) _pdf_
 - [Optimistic](optimistic.pdf) _pdf_
