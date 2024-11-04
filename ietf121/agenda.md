@@ -42,6 +42,11 @@ Meetecho - [full client](https://meetings.conf.meetecho.com/ietf121/?session=334
 *  3 min - Scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well/)
 *  2 min - Agenda bashing
 
+
+### AD-Requested Feedback
+
+* 5 min - [https://datatracker.ietf.org/doc/draft-ietf-netconf-http-client-server/](draft-ietf-netconf-http-client-server)
+
 ### Active Drafts
 
 _See also the [extensions listing](https://httpwg.org/http-extensions/)_
