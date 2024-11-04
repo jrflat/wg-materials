@@ -9,6 +9,7 @@
 - [Chairs](chairs.pdf) _pdf_
 - [Delete Cookie](delete-cookie.pdf) _pdf_
 - [Incremental](incremental.pdf) _pdf_
+- [No Vary Search](no-vary-search.pdf) _pdf_
 - [Optimistic](optimistic.pdf) _pdf_
 - [Query](query.pdf) _pdf_
 - [Resumable_Uploads](resumable_uploads.pdf) _pdf_
